@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 11: Lifecycle Management'
 uid: 7ade98dc-2add-e2eb-3763-5a75c91bc0db
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture introduced the concept of lifecycle management and also summarized other key concepts taught through the semester.
 
 **Instructor:** Olivier de Weck
+

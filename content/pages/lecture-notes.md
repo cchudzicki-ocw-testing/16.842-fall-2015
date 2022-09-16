@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, the lecture notes
+  used for each session, and supplemental files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -76,7 +78,7 @@ SUPPLEMENTAL FILES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c735f455-7cd1-589e-e862-94668f75b558 "System Architecture and Concept Generation (PDF - 3.1MB)" %}}
+{{% resource_link c735f455-7cd1-589e-e862-94668f75b558 "System Architecture and Concept Generation (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 n/a
@@ -88,7 +90,7 @@ n/a
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link dac225af-f5a8-4125-fd1b-f9364d748221 "Concept Selection and Tradespace Exploration (PDF - 2.0MB)" %}}
+{{% resource_link dac225af-f5a8-4125-fd1b-f9364d748221 "Concept Selection and Tradespace Exploration (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 8f5f5d04-cf66-78fb-f0cb-63e6eed1f39f "SE Concept Question 6 (PDF)" %}}
@@ -112,7 +114,7 @@ n/a
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9f7cb8a5-12bf-bc39-dcbb-d6142d1edcad "MBSE and Introduction to CAD (Guest Lecture from Solidworks) (PDF - 1.9MB)" %}}
+{{% resource_link 9f7cb8a5-12bf-bc39-dcbb-d6142d1edcad "MBSE and Introduction to CAD (Guest Lecture from Solidworks) (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  n/a
@@ -136,8 +138,7 @@ n/a
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Verification and Validation (PDF)  
-]({{< baseurl >}}/resources/mit16_842f15_ses9_ver)
+{{% resource_link "5a7dcfe3-33cb-eab4-df8d-8a34c38b57cc" "Verification and Validation (PDF)   " %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 8f6f48d4-1fe6-b846-7a7a-fb5ef64e8c96 "SE Concept Question 9 (PDF)" %}}

@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page provides selected class videos for MIT course 16.842 Fundamentals
+  of Systems Engineering of Fall, 2015.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

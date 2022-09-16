@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-842-fundamentals-of-systems-engineering-fall-2015/20d7d6fe8b84f893dd7bf95988be353c_3_vcJ6l7b8Y.srt
+file: /media/courses/16-842-fundamentals-of-systems-engineering-fall-2015/20d7d6fe8b84f893dd7bf95988be353c_3_vcJ6l7b8Y.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

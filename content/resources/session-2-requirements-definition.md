@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 2: Requirements Definition'
 uid: 93c470b7-590a-b0cc-1e0e-2ad07e65e02f
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture explained how to specify exactly what is expected before a design process begins.
 
 **Instructor:** Olivier de Weck
+

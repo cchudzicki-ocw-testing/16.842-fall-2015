@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 5: Concept Selection and Tradespace Exploration'
 uid: fc88c5d3-f4fe-a5ef-b45e-86dc49ada16c
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** This lecture covered ground on the phase of conceptual design and preliminary design in a design process.
 
 **Instructor:** Olivier de Weck
+

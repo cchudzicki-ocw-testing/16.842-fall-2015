@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 6: Design Definition and Multidisciplinary Optimization'
 uid: 0ede991e-7eb3-3c8b-0714-1aa538d982e9
 video_files:
@@ -25,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students learned the process overview in the NASA design definition process and how to optimize the design.
 
 **Instructor:** Olivier de Weck
+
